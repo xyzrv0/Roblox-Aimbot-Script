@@ -7,6 +7,6 @@ Can be buggy in some games, the Gui may dissappear but the Aimbot and Hotkeys wi
 Default On/Off key is Left-Ctrl.
 Aimbot key is Right Mouse Button.
 
-To change Smoothing, change the Value on line 106.
+To change Smoothing, change the Value on line 106. (0.1 - 1.5 recommended)
 
 To change default On/Off Key, change the code on line 89 to your desired Key e.g. "Enum.KeyCode.LeftControl" To "Enum.KeyCode.V"
