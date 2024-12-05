@@ -8,4 +8,5 @@ Default On/Off key is Left-Ctrl.
 Aimbot key is Right Mouse Button.
 
 To change Smoothing, change the Value on line 106.
+
 To change default On/Off Key, change the code on line 89 to your desired Key e.g. "Enum.KeyCode.LeftControl" To "Enum.KeyCode.V"
